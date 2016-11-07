@@ -15,3 +15,5 @@ $phpSlugger = new PhpSlugger();
 echo $phpSlugger->slugit('∆ € $ Þ λ  I am A web Developer'); // delta-euro-dollor-l-i-am-a-web-developer
 ```
 
+##support
+-  [jquery Slug Plugin text2slug](https://github.com/afshinpersian/text-to-slug)
