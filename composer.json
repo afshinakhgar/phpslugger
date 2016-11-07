@@ -1,0 +1,17 @@
+{
+    "name": "afshinpersian/phpslugger",
+    "description": "generate php slug from text",
+    "type": "class",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Afshin Akhgar",
+            "email": "afshin.akhgar@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"PhpSlugger\\": "src/"}
+    },
+    "minimum-stability": "beta",
+    "require": {}
+}
