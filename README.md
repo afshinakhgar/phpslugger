@@ -6,6 +6,10 @@ create url slug from a text and replace special character
 ```php
 composer install
 ```
+##### Direct install from composer
+```php
+composer require afshinpersian/phpslugger
+```
 ### Include it via Composer Autoloader
 ```php
 require __DIR__ . '/vendor/autoload.php';
