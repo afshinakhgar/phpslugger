@@ -11,6 +11,5 @@
     ],
     "autoload": {
         "psr-4": {"PhpSlugger\\": "src/"}
-    },
-    "require": {}
+    }
 }
